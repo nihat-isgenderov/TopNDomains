@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/uiDesigner.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/TopNDomains.iml
+/.idea/vcs.xml
